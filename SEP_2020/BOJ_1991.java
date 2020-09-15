@@ -22,45 +22,85 @@ public class BOJ_1991 {
 	}
 }
 
-class Node{
+class Node {
 	char data;
 	Node left, right;
-	public Node(char data){ this.data = data; }
-}
-class Tree{
-	Node root;
-	public void add(char data, char leftData, char rightData){
-		if(root==null){
-			if(data!='.') root = new Node(data);
-			if(leftData!='.') root.left = new Node(leftData);
-			if(rightData!='.') root.right = new Node(rightData);
-		}
-		else search(root, data, leftData, rightData);
+	
+	public Node(char data) { 
+		this.data = data; 
 	}
-	private void search(Node root, char data, char leftData, char rightData){
-	    if(root==null) return;
-	    else if(root.data==data){
-		    if(leftData!='.') root.left = new Node(leftData);
-		    if(rightData!='.') root.right = new Node(rightData);
+}
+class Tree {
+	Node root;
+	public void add(char data, char left, char right) {
+		if (root == null) {
+			if (data != '.') {
+				root = new Node(data);
+			}
+			if (left != '.') {
+				root.left = new Node(left);
+			}
+			if (right != '.') {
+				root.right = new Node(right);
+			}
+		}
+		else {
+			next(root, data, left, right);
+		}
+	}
+	private void next (Node root, char data, char left, char right){
+	    if (root == null) {
+	    	return;
 	    }
+	    
+	    else if (root.data == data) {
+		    if (left != '.') {
+		    	root.left = new Node(left);
+		    }
+		    if(right != '.') {
+		    	root.right = new Node(right);
+		    }
+	    }
+	    
 	    else{
-		    search(root.left, data, leftData, rightData);
-		    search(root.right, data, leftData, rightData);
+		    next(root.left, data, left, right);
+		    next(root.right, data, left, right);
 	    }
     }
-	public static void preorder(Node root){
+	
+	public static void preorder (Node root){
 		System.out.print(root.data);
-		if(root.left!=null) preorder(root.left);
-		if(root.right!=null) preorder(root.right);
+		
+		if (root.left != null) {
+			preorder(root.left);
+		}
+		
+		if (root.right != null) {
+			preorder(root.right);
+		}
 	}
-	public static void inorder(Node root){
-		if(root.left!=null) inorder(root.left);
+	
+	public static void inorder(Node root) {
+		if(root.left != null) {
+			inorder(root.left);
+		}
+		
 		System.out.print(root.data);
-		if(root.right!=null) inorder(root.right);
+		
+		if(root.right != null) {
+			inorder(root.right);
+		}
 	}
-	public static void postorder(Node root){
-		if(root.left!=null) postorder(root.left);
-		if(root.right!=null) postorder(root.right);
+	
+	public static void postorder(Node root) {
+		if(root.left != null) {
+			postorder(root.left);
+		}
+		
+		if(root.right != null) {
+			postorder(root.right);
+		}
+		
 		System.out.print(root.data);
 	}
 }
