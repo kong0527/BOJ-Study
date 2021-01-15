@@ -1,6 +1,6 @@
 #### 프로그래머스 레벨1 통과
 
-![image](https://user-images.githubusercontent.com/64277114/104702566-84674b80-5759-11eb-818e-9148959442d5.png)
+![image](https://user-images.githubusercontent.com/64277114/104717267-60613580-576c-11eb-95b8-2f7b308a1768.png)
 <br/>
 
 코드나 힌트를 SNS에 올리면 안된다길래 . .
