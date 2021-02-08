@@ -31,13 +31,21 @@ public class Main {
                     int sum1 = 0;
                     int sum2 = 0;
                     for (int i = 0; i < o1.length(); i++) {
+<<<<<<< HEAD
                         if (o1.charAt(i) >= 32 && o1.charAt(i) <= 57) {
+=======
+                        if (!(o1.charAt(i) >= 65 && o1.charAt(i) <= 90)) {
+>>>>>>> ac8644199ea6e290fbf57fc7efd9408c1716d52a
                             sum1 += o1.charAt(i) - '0';
                         }
                     }
 
                     for (int i = 0; i < o2.length(); i++) {
+<<<<<<< HEAD
                         if (o2.charAt(i) >= 32 && o2.charAt(i) <= 57) {
+=======
+                        if (!(o2.charAt(i) >= 65 && o2.charAt(i) <= 90)) {
+>>>>>>> ac8644199ea6e290fbf57fc7efd9408c1716d52a
                             sum2 += o2.charAt(i) - '0';
                         }
                     }
@@ -60,4 +68,8 @@ public class Main {
         }
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ac8644199ea6e290fbf57fc7efd9408c1716d52a
