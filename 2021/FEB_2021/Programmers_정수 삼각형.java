@@ -1,7 +1,7 @@
 class Solution {
     public int solution(int[][] triangle) {
         int answer = 0;
-        // 각 요소까 최댓값을 저장하기 위해 triangle과 크기가 같은 배열 생
+        // 각 요소까지 최댓값을 저장하기 위해 triangle과 크기가 같은 배열 생성
         int dp[][] = new int[triangle.length][triangle.length];
         // dp 초기값 설정
         dp[0][0] = triangle[0][0];
