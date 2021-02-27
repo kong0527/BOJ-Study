@@ -92,6 +92,7 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42898">등굣길</a> / <a href="https://blog.naver.com/o____ri/222246926236">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12900">2xn 타일링</a> / <a href="https://blog.naver.com/o____ri/222250221619">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1788">1788</a> / <a href="https://blog.naver.com/o____ri/222250527309">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> / <a href="https://blog.naver.com/o____ri/222258765810">풀이</a></li>
     </ul>
 </details>
 
