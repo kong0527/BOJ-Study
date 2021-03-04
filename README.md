@@ -193,6 +193,15 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a> / <a href="https://blog.naver.com/o____ri/222239657211">풀이</a></li>
     </ul>
 </details>
+<br/>
+
+<details><summary>[힙]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11279">11279</a> / <a href="https://blog.naver.com/o____ri/222264158983">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1927">1927</a> / <a href="https://blog.naver.com/o____ri/222264161359">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a> / <a href="https://blog.naver.com/o____ri/222264480057">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
@@ -222,5 +231,4 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1929">1929</a> / <a href="https://blog.naver.com/o____ri/222094794211">풀이</a></li>
     </ul>
 </details>
-
 <br/>
