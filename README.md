@@ -27,7 +27,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43162">네트워크</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222257437236">DFS</a>)</li>
     </ul>
 </details>
-
 <br/>
 
 <details><summary>[수학]</summary>
@@ -42,8 +41,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1049">1049</a> / <a href="https://blog.naver.com/o____ri/222188026297">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1292">1292</a> / <a href="https://blog.naver.com/o____ri/222192651199">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14916">14916</a> / <a href="https://blog.naver.com/o____ri/222204008370">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a> / <a href="https://blog.naver.com/o____ri/222267391819">풀이</a></li>
     </ul>
 </details>
+
 
 <br/>
 
@@ -95,15 +96,16 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> / <a href="https://blog.naver.com/o____ri/222258765810">풀이</a></li>
     </ul>
 </details>
-
 <br/>
 
 <details><summary>[큐]</summary>
     <ul>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1966">1966</a> / <a href="https://blog.naver.com/o____ri/222165671657">풀이</a></li>
-        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">1149</a> / <a href="https://blog.naver.com/o____ri/222246679489">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> / <a href="https://blog.naver.com/o____ri/222246679489">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a> / <a href="https://blog.naver.com/o____ri/222266457725">풀이</a></li>
     </ul>
 </details>
+
 
 <br/>
 
@@ -113,7 +115,6 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10773">10773</a> / <a href="https://blog.naver.com/o____ri/222096181750">풀이</a></li>
     </ul>
 </details>
-
 <br/>
 
 <details><summary>[구현]</summary>
@@ -146,8 +147,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a> / <a href="https://blog.naver.com/o____ri/222240537599">풀이</a></li>
     </ul>
 </details>
-
-
 <br/>
 
 <details><summary>[이분 탐색]</summary>
