@@ -44,8 +44,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a> / <a href="https://blog.naver.com/o____ri/222267391819">풀이</a></li>
     </ul>
 </details>
-
-
 <br/>
 
 <details><summary>[그리디 알고리즘]</summary>
@@ -105,8 +103,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a> / <a href="https://blog.naver.com/o____ri/222266457725">풀이</a></li>
     </ul>
 </details>
-
-
 <br/>
 
 <details><summary>[스택]</summary>
@@ -129,6 +125,7 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42584">주식가격</a> / <a href="https://blog.naver.com/o____ri/222215197403">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> / <a href="https://blog.naver.com/o____ri/222256113837">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a> / <a href="https://blog.naver.com/o____ri/222260722203">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a> / <a href="https://blog.naver.com/o____ri/222268482390">풀이</a></li>
     </ul>
 </details>
 <br/>
