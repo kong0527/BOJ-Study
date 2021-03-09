@@ -25,8 +25,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/13565">13565</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222253829587">DFS</a>)</li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43163">단어 변환</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222254943763">DFS</a>)</li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43162">네트워크</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222257437236">DFS</a>)</li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222269738616">BFS</a>)</li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[수학]</summary>
@@ -57,6 +59,7 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2839">2839</a> / <a href="https://blog.naver.com/o____ri/222128489856">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1758">1758</a> / <a href="https://blog.naver.com/o____ri/222204153858">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a> / <a href="https://blog.naver.com/o____ri/222219375597">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a> / <a href="https://blog.naver.com/o____ri/222269506471">풀이</a></li>
     </ul>
 </details>
 
