@@ -62,7 +62,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a> / <a href="https://blog.naver.com/o____ri/222269506471">풀이</a></li>
     </ul>
 </details>
-
 <br/>
 
 <details><summary>[다이나믹 프로그래밍]</summary>
@@ -129,8 +128,10 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> / <a href="https://blog.naver.com/o____ri/222256113837">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a> / <a href="https://blog.naver.com/o____ri/222260722203">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a> / <a href="https://blog.naver.com/o____ri/222268482390">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12924">숫자의 표현</a> / <a href="https://blog.naver.com/o____ri/222271998705">풀이</a></li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[브루트포스]</summary>
@@ -192,7 +193,6 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1182">1182</a> / <a href="https://blog.naver.com/o____ri/222265433372">풀이</a></li>
 </ul>
 </details>
-
 <br/>
 
 <details><summary>[힙]</summary>
@@ -200,8 +200,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11279">11279</a> / <a href="https://blog.naver.com/o____ri/222264158983">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1927">1927</a> / <a href="https://blog.naver.com/o____ri/222264161359">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a> / <a href="https://blog.naver.com/o____ri/222264480057">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위 큐</a> / <a href="https://blog.naver.com/o____ri/222271033535">풀이</a></li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[트리]</summary>
