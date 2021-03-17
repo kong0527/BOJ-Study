@@ -142,10 +142,11 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/7568">7568</a> / <a href="https://blog.naver.com/o____ri/222161428175">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1436">1436</a> / <a href="https://blog.naver.com/o____ri/222174525428">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1543">1543</a> / <a href="https://blog.naver.com/o____ri/222183125261">풀이</a></li>
-        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1543">1051</a> / <a href="https://blog.naver.com/o____ri/222193913938">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1051">1051</a> / <a href="https://blog.naver.com/o____ri/222193913938">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a> / <a href="https://blog.naver.com/o____ri/222239657211">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a> / <a href="https://blog.naver.com/o____ri/222223317120">풀이</a></li>
-        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a> / <a href="https://blog.naver.com/o____ri/222240537599">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a> / <a href="https://blog.naver.com/o____ri/222240537599">풀이</a></li>\
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1107">1107</a> / <a href="https://blog.naver.com/o____ri/222277515179">풀이</a></li>
     </ul>
 </details>
 <br/>
