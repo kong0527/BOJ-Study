@@ -28,7 +28,6 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222269738616">BFS</a>)</li>
     </ul>
 </details>
-
 <br/>
 
 <details><summary>[수학]</summary>
@@ -44,8 +43,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1292">1292</a> / <a href="https://blog.naver.com/o____ri/222192651199">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14916">14916</a> / <a href="https://blog.naver.com/o____ri/222204008370">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a> / <a href="https://blog.naver.com/o____ri/222267391819">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a> / <a href="https://blog.naver.com/o____ri/222286437523">풀이</a></li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[그리디 알고리즘]</summary>
@@ -103,16 +104,21 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1966">1966</a> / <a href="https://blog.naver.com/o____ri/222165671657">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> / <a href="https://blog.naver.com/o____ri/222246679489">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a> / <a href="https://blog.naver.com/o____ri/222266457725">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15903">15903</a> / <a href="https://blog.naver.com/o____ri/222291546820">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2002">2002</a> / <a href="https://blog.naver.com/o____ri/222294269665">풀이</a></li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[스택]</summary>
     <ul>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10828">10828</a> / <a href="https://blog.naver.com/o____ri/221523682444">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10773">10773</a> / <a href="https://blog.naver.com/o____ri/222096181750">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/9935">9935</a> / <a href="https://blog.naver.com/o____ri/222295384523">풀이</a></li>
     </ul>
 </details>
+
 <br/>
 
 <details><summary>[구현]</summary>
@@ -134,8 +140,6 @@
       <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a> / <a href="https://blog.naver.com/o____ri/222285299235">풀이</a></li>
     </ul>
 </details>
-
-
 <br/>
 
 <details><summary>[브루트포스]</summary>
@@ -173,8 +177,10 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a> / <a href="https://blog.naver.com/o____ri/222241547759">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42578">위장</a> / <a href="https://blog.naver.com/o____ri/222244702176">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42579">베스트 앨범</a> / <a href="https://blog.naver.com/o____ri/222245560809">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2865">2865</a> / <a href="https://blog.naver.com/o____ri/222290695727">풀이</a></li>
     </ul>
 </details>
+
 
 <br/>
 
@@ -228,6 +234,7 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2941">2941</a> / <a href="https://blog.naver.com/o____ri/222105934751">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1152">1152</a> / <a href="https://blog.naver.com/o____ri/222127335561">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1764">1764</a> / <a href="https://blog.naver.com/o____ri/222132817547">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a> / <a href="https://blog.naver.com/o____ri/222289399351">풀이</a></li>
     </ul>
 </details>
 
@@ -249,3 +256,10 @@
 </details>
 
 <br/>
+
+<details><summary>[재귀]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1769">1769</a> / <a href="https://blog.naver.com/o____ri/222292736521">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1780">1780</a> / <a href="https://blog.naver.com/o____ri/222295280455">풀이</a></li>
+    </ul>
+</details>
