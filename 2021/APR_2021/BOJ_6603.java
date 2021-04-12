@@ -9,7 +9,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         while (true) {
             String st[] = br.readLine().split(" ");
-            // 골랐는지 표시할 visited 배열
+            // 고른 것들을 표시할 visited 배열
             visited = new boolean[st.length];
             // while문 종료조건
             if (st[0].equals("0")) {
