@@ -187,6 +187,7 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42578">위장</a> / <a href="https://blog.naver.com/o____ri/222244702176">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42579">베스트 앨범</a> / <a href="https://blog.naver.com/o____ri/222245560809">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2865">2865</a> / <a href="https://blog.naver.com/o____ri/222290695727">풀이</a></li>
+     <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a> / <a href="https://blog.naver.com/o____ri/222399205558">풀이</a></li>
     </ul>
 </details>
 
